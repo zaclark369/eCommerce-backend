@@ -21,10 +21,10 @@ Product.init(
       type: DataTypes.STRING,
       allowNull: false,
     },
-    catagory_id: {
+    category_id: {
       type: DataTypes.INTEGER,
       references: {
-        model: "catagory",
+        model: "category",
         key: "id",
       },
     },
