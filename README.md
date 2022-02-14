@@ -35,7 +35,7 @@
   ## Video
   ___
  Here are some images:
-[![landing page](assets/screenprint.PNG)](https://watch.screencastify.com/v/GboxxN2pjReiTxN9Ct4G "Demo Video")
+[![landing page](assets/screenprint.PNG)](https://watch.screencastify.com/v/GboxxN2pjReiTxN9Ct4G "Demo Video"){:target="_blank"}
 
 
 
